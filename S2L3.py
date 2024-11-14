@@ -25,5 +25,5 @@ print("Non male come nome " + nome, "!")
 
 print("Ora ci siamo quasi! Come si chiama il luogo da cui vieni?")
 luogo = input("")
-print("Il nome della tua band è compiuto. Ciao "+nome + luogo)
+print("Il nome della tua band è compiuto. Ciao "+nome + luogo, "!")
 
